@@ -1,0 +1,33 @@
+{
+	"name": "q7zh/flarum-ext-ratings",
+	"description": "Enables content rating settings on posts",
+	"type": "flarum-extension",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "q7zh"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/q7zh/flarum-ext-ratings/issues",
+        "source": "https://github.com/q7zh/flarum-ext-ratings"
+    },
+	"require": {
+		"flarum/core": "^0.1.0-beta.7"
+	},
+	"autoload": {
+        "psr-4": {
+            "Q7zh\\Ratings\\": "src/"
+        }
+    },
+	"extra": {
+		"flarum-extension": {
+			"title": "Post Ratings",
+			"icon": {
+                "name": "smile-o",
+                "backgroundColor": "#ffb7b7",
+                "color": "#f4424b"
+            }
+		}
+	}
+}

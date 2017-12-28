@@ -1,0 +1,24 @@
+q7zh-ratings:
+  forum:
+    composer:
+      general: 普遍级
+      mature: 限制级
+      explict: 成人级
+      teen: 青少年以上
+      none: 无分级
+    discussion:
+      general: 普遍级
+      mature: 限制级
+      explict: 成人级
+      teen: 青少年以上
+      none: 无分级
+  admin:
+    settings:
+      title: 帖文分级设定
+      defaults:
+        title: 默认分级开关
+        help: 开关自带的分级列表
+        general: 普遍级
+        mature: 限制级
+        explict: 成人级
+        teen: 青少年以上

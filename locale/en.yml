@@ -1,0 +1,24 @@
+q7zh-ratings:
+  forum:
+    composer:
+      general: General Audiences
+      mature: Mature
+      explict: Explict
+      teen: Teen and Up Audiences
+      none: Not Rated
+    discussion:
+      general: General Audiences
+      mature: Mature
+      explict: Explict
+      teen: Teen and Up Audiences
+      none: Not Rated
+  admin:
+    settings:
+      title: Discussion Ratings Settings
+      defaults:
+        title: Default ratings switch
+        help: Toggles the default options.
+        general: General Audiences
+        mature: Mature
+        explict: Explict
+        teen: Teen and Up Audiences
