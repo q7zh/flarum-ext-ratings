@@ -2,13 +2,13 @@
 
 Extension for Flarum, enabling content rating settings on discussions.
 
-##Getting Started
+## Getting Started
 
-####Prerequisites
+#### Prerequisites
 
 - [flarum/core](https://packagist.org/packages/flarum/core): ^0.1.0-beta.7
 
-####Installation
+#### Installation
 
 Execute the following command in the root directory of your flarum.
 
@@ -22,7 +22,7 @@ Make sure that the following directories and files are writable by the web/php u
 - `composer.lock`
 - ``vendor/``
 
-####Updating
+#### Updating
 
 Execute the following commands in the root directory of your flarum.
 
