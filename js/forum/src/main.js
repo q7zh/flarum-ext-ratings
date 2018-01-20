@@ -30,9 +30,9 @@ app.initializers.add('q7zh-ratings', function() {
     }
 
     const q7zhRatingsOptions = {
-        'none': app.translator.trans('q7zh-ratings.forum.composer.none'),
-        'teen': app.translator.trans('q7zh-ratings.forum.composer.teen'),  
+        'none': app.translator.trans('q7zh-ratings.forum.composer.none'),  
         'general': app.translator.trans('q7zh-ratings.forum.composer.general'),
+        'teen': app.translator.trans('q7zh-ratings.forum.composer.teen'),
         'mature': app.translator.trans('q7zh-ratings.forum.composer.mature'),
         'explict': app.translator.trans('q7zh-ratings.forum.composer.explict'),   
     };
